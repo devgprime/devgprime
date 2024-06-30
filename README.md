@@ -10,7 +10,7 @@ Hi there, I'm Deavyansh 👋, A Cloud, DevOps, Automation & Blockchain Engineer 
 - **Cloud:** AWS (Certified Solutions Architect), Azure, GCP
 - **DevOps:** CI/CD Pipelines (Jenkins, GitLab CI, ArgoCD, Flux, Azure DevOps), IaC (Terraform, Ansible), Kubernetes, Helm, Docker
 - **Automation:** Ansible, Python, Bash Scripting
-- **Blockchain:** Ethereum, Hyperledger Fabric, Smart Contract Development (Solidity), Polygon, DApp Architecture
+- **Blockchain:** Ethereum, Hyperledger Fabric, DAML, Smart Contract Development (Solidity), Polygon, DApp Architecture
 - **Observability:** Prometheus, Grafana, ELK Stack
 - **Development:** Golang, NodeJS, Java
 - **Monitoring & Logging:** Grafana, Prometheus
