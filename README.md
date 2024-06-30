@@ -7,7 +7,7 @@ Hi there, I'm Deavyansh 👋, A Cloud, DevOps, Automation & Blockchain Engineer 
 
 **Core Skills:**
 
-- **Cloud:** AWS (Certified Solutions Architect), Azure, GCP, Pega Certified Systems Architect
+- **Cloud:** AWS (Certified Solutions Architect), Azure, GCP
 - **DevOps:** CI/CD Pipelines (Jenkins, GitLab CI, ArgoCD, Flux, Azure DevOps), IaC (Terraform, Ansible), Kubernetes, Helm, Docker
 - **Automation:** Ansible, Python, Bash Scripting
 - **Blockchain:** Ethereum, Hyperledger Fabric, Smart Contract Development (Solidity), Polygon, DApp Architecture
