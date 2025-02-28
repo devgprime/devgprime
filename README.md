@@ -1,19 +1,20 @@
-Hi there, I'm Deavyansh 👋, A Cloud, DevOps, Automation & Blockchain Engineer with around 7 years of experience.
+Hi there, I'm Deavyansh 👋—a Software Engineering Polyglot with over 8 years of experience driving scalable solutions and modern technology advancements.
 
-- 🔭 Orchestrating the future: Automating blockchain applications at scale.
-- 🌱 Leveling up: Mastering advanced platform engineering for seamless deployments.
-- 👯 Open to collaboration: Let's build awesome open-source projects together!
-- 💬 Tech brainstorming?  Hit me up – I'm always ready to ideate and innovate. 
+    🔭 Orchestrating the future: Automating and optimizing blockchain applications at scale.
+    🌱 Expanding horizons: Exploring AI-IoT synergies to design intelligent, adaptive systems.
+    👨‍🏫 Mentorship & Leadership: Guiding and training young tech enthusiasts in modern technology.
+    💡 Open to collaboration: Passionate about building and contributing to impactful open-source projects.
 
-**Core Skills:**
+Core Skills:
 
-- **Cloud:** AWS (Certified Solutions Architect), Azure, GCP
-- **DevOps:** CI/CD Pipelines (Jenkins, GitLab CI, ArgoCD, Flux, Azure DevOps), IaC (Terraform, Ansible), Kubernetes, Helm, Docker
-- **Automation:** Ansible, Python, Bash Scripting
-- **Blockchain:** Ethereum, Hyperledger Fabric, DAML, Smart Contract Development (Solidity), Polygon, DApp Architecture
-- **Observability:** Prometheus, Grafana, ELK Stack
-- **Development:** Golang, NodeJS, Java
-- **Monitoring & Logging:** Grafana, Prometheus
+    Cloud: AWS (Certified Solutions Architect), Azure, GCP
+    DevOps: CI/CD Pipelines (Jenkins, GitLab CI, ArgoCD, Flux, Azure DevOps), IaC (Terraform, Ansible), Kubernetes, Helm, Docker
+    Automation: Ansible, Python, Bash Scripting
+    Blockchain: Ethereum, Hyperledger Fabric, DAML, Smart Contract Development (Solidity), Polygon, DApp Architecture
+    Observability: Prometheus, Grafana, ELK Stack
+    Development: Golang, NodeJS, Java
+    Monitoring & Logging: Grafana, Prometheus
 
-📫 **Connect:** (https://linkedin.com/in/deavyansh)
-⚡ **Fun Fact:** From tech deep dives to pop culture – let's chat about anything! My curiosity knows no bounds.
+📫 Connect: https://www.linkedin.com/in/deavyansh
+
+⚡ Fun Fact: From deep tech to pop culture—always eager to explore new ideas and innovations!
