@@ -1,7 +1,7 @@
 Hi there, I'm Deavyansh 👋 a Software Engineering Polyglot with over a decade of experience driving scalable solutions and modern technology advancements.
 
     🔭 Orchestrating the future: Automating and optimizing blockchain applications at scale.
-    🌱 Expanding horizons: Exploring AI-IoT synergies to design intelligent, adaptive systems.
+    🌱 Expanding horizons: Exploring AI,IoT synergies to design intelligent, adaptive systems.
     👨‍🏫 Mentorship & Leadership: Guiding and training young tech enthusiasts in modern technology.
     💡 Open to collaboration: Passionate about building and contributing to impactful open-source projects.
 
@@ -17,4 +17,4 @@ Core Skills:
 
 📫 Connect: https://www.linkedin.com/in/deavyansh
 
-⚡ Fun Fact: From deep tech to pop culture—always eager to explore new ideas and innovations!
+⚡ Fun Fact: From deep tech to pop culture,always eager to explore new ideas and innovations!
