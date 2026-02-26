@@ -1,4 +1,4 @@
-Hi there, I'm Deavyansh 👋—a Software Engineering Polyglot with over 8 years of experience driving scalable solutions and modern technology advancements.
+Hi there, I'm Deavyansh 👋 a Software Engineering Polyglot with over a decade of experience driving scalable solutions and modern technology advancements.
 
     🔭 Orchestrating the future: Automating and optimizing blockchain applications at scale.
     🌱 Expanding horizons: Exploring AI-IoT synergies to design intelligent, adaptive systems.
