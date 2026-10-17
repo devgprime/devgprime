@@ -8,6 +8,7 @@ My work spans cloud provisioning, container deployment, service observability, a
 
 | Project | Scope |
 | --- | --- |
+| [IaC Eval Bench](https://github.com/devgprime/iac-eval-bench) | Six synthetic Kubernetes tasks, offline schema/rubric scoring and a resumable evaluation workflow. Fixture baselines published; real model runs pending. |
 | [Go microservices lab](https://github.com/devgprime/go-microservices-lab) | Go services, messaging experiments, broker validation tests and a reproducible JSON microbenchmark. |
 | [Flink deployment lab](https://github.com/devgprime/flink-helm-deployment-lab) | Helm templates, configuration validation and deployment workflow experiments. |
 | [Python container runner](https://github.com/devgprime/python-container-runner) | A small Python/Flask launcher with explicit configuration and smoke checks. |
