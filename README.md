@@ -1,20 +1,24 @@
-Hi there, I'm Deavyansh 👋 a Software Engineering Polyglot with over a decade of experience driving scalable solutions and modern technology advancements.
+# Hi, I'm Deavyansh
 
-    🔭 Orchestrating the future: Automating and optimizing blockchain applications at scale.
-    🌱 Expanding horizons: Exploring AI,IoT synergies to design intelligent, adaptive systems.
-    👨‍🏫 Mentorship & Leadership: Guiding and training young tech enthusiasts in modern technology.
-    💡 Open to collaboration: Passionate about building and contributing to impactful open-source projects.
+I'm a software engineer focused on **LLM evaluation and benchmarking, infrastructure as code, and workflow automation**, with interests in Go and Python tooling.
 
-Core Skills:
+My work spans cloud provisioning, container deployment, service observability, and rubric-based evaluation of infrastructure code. I'm improving the reproducibility and documentation of my public projects.
 
-    Cloud: AWS (Certified Solutions Architect), Azure, GCP
-    DevOps: CI/CD Pipelines (Jenkins, GitLab CI, ArgoCD, Flux, Azure DevOps), IaC (Terraform, Ansible), Kubernetes, Helm, Docker
-    Automation: Ansible, Python, Bash Scripting
-    Blockchain: Ethereum, Hyperledger Fabric, DAML, Smart Contract Development (Solidity), Polygon, DApp Architecture
-    Observability: Prometheus, Grafana, ELK Stack
-    Development: Golang, NodeJS, Java
-    Monitoring & Logging: Grafana, Prometheus
+## Selected public work
 
-📫 Connect: https://www.linkedin.com/in/deavyansh
+| Project | Scope |
+| --- | --- |
+| [Go microservices lab](https://github.com/devgprime/GoMicro) | Go services, RabbitMQ messaging, gRPC and container deployment experiments. |
+| [Flink deployment lab](https://github.com/devgprime/HelmFile-Automation-Suite) | Helm templates, configuration validation and deployment workflow experiments. |
+| [Python container runner](https://github.com/devgprime/Dockerized-Python-Runner) | A small Python/Flask launcher with explicit configuration and smoke checks. |
+| [Azure provisioning experiments](https://github.com/devgprime/PrivateBlockchainAutomation) | Historical Terraform, Ansible and Docker work, with limitations documented. |
 
-⚡ Fun Fact: From deep tech to pop culture,always eager to explore new ideas and innovations!
+## Current focus
+
+- **Evaluation and benchmarking:** reproducible tasks, scoring, failure analysis, and quality/latency/cost comparisons.
+- **Workflow automation:** repeatable execution, validation, reporting and infrastructure lifecycle management.
+- **Go and infrastructure:** messaging, diagnostics, configuration testing and observability.
+
+I'm interested in contributing issue reproductions, regression tests, documentation and focused fixes to open-source evaluation and infrastructure projects. Project roadmaps distinguish implemented features from planned work.
+
+[LinkedIn](https://www.linkedin.com/in/deavyansh)
