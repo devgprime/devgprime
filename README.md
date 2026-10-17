@@ -8,9 +8,9 @@ My work spans cloud provisioning, container deployment, service observability, a
 
 | Project | Scope |
 | --- | --- |
-| [Go microservices lab](https://github.com/devgprime/GoMicro) | Go services, RabbitMQ messaging, gRPC and container deployment experiments. |
-| [Flink deployment lab](https://github.com/devgprime/HelmFile-Automation-Suite) | Helm templates, configuration validation and deployment workflow experiments. |
-| [Python container runner](https://github.com/devgprime/Dockerized-Python-Runner) | A small Python/Flask launcher with explicit configuration and smoke checks. |
+| [Go microservices lab](https://github.com/devgprime/go-microservices-lab) | Go services, messaging experiments, broker validation tests and a reproducible JSON microbenchmark. |
+| [Flink deployment lab](https://github.com/devgprime/flink-helm-deployment-lab) | Helm templates, configuration validation and deployment workflow experiments. |
+| [Python container runner](https://github.com/devgprime/python-container-runner) | A small Python/Flask launcher with explicit configuration and smoke checks. |
 | [Azure provisioning experiments](https://github.com/devgprime/PrivateBlockchainAutomation) | Historical Terraform, Ansible and Docker work, with limitations documented. |
 
 ## Current focus
